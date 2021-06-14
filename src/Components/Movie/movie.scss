@@ -133,3 +133,32 @@ $mediaXXs: 359px;
         text-align: center;
     }
 }
+
+
+
+
+.cs-paginationStyle li {/* In components the class name should be cs-paginationStyle in div tag. Under div tag include pagination concept. */
+    float: left;
+    padding: 6px 12px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    margin: 0 3px;
+    border-radius: 5px; 
+}
+
+.cs-paginationStyle ul {
+    list-style-type: none;
+    padding: 7px 0 0 0;
+    margin: 0;
+}
+
+.cs-paginationCloseAlign {
+    margin-top: 8px;
+}
+
+@media only screen and (max-width: 600px) {
+    .cs-paginationCloseAlign {
+        margin-top: 60px;
+    }
+}

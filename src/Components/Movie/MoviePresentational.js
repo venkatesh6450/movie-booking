@@ -5,12 +5,14 @@ import Navbar from "../Navbar"
 import {useState} from "react";
 import {useDispatch} from "react-redux";
 import {addMovieNameRequest,getMovieDetailsRequest} from "../../appRedux/actions";
+import  Pagination  from "react-js-pagination";
+import {LeftOutlined, RightOutlined } from "@ant-design/icons"
 
 
-    const {TextArea} = Input
+const {TextArea} = Input
    
 
-function MoviePresentational({moviesData}){
+function MoviePresentational({moviesData,handlePageChange,pageValue,pageCountData}){
 
     const dispatch = useDispatch()
 
@@ -55,7 +57,9 @@ function MoviePresentational({moviesData}){
           })
         }
       }
-  
+
+
+      
 
   console.log("imageUpload", imageUpload?.image )
 
@@ -68,7 +72,7 @@ function MoviePresentational({moviesData}){
 
             { moviesData?.map((el,index)=>
 
-            <article key={el.index}>
+            <article key={index}>
                 
             <img src="https://image.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-586719869.jpg" />
                 <div className="text" >
@@ -132,10 +136,27 @@ function MoviePresentational({moviesData}){
             Add
           </button> 
         
-    </Form>
+        </Form>
 
 
       </Drawer>
+
+      <div className="cs-paginationStyle">
+
+        <Pagination 
+                prevPageText= <LeftOutlined />
+                nextPageText=<RightOutlined /> 
+                firstPageText="First"
+                lastPageText="Last"
+                activePage={1}
+                itemsCountPerPage={3}
+                totalItemsCount={pageCountData?.length}
+                onChange={handlePageChange}
+                pageRangeDisplayed={pageValue}
+
+        />
+
+        </div>
 		</>
 	)
 
