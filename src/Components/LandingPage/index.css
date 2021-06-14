@@ -1,0 +1,103 @@
+.container {
+     height: 100vh;
+     width: 100%;
+     background-image: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url("https://searchengineland.com/figz/wp-content/seloads/2015/08/movie-film-video-production-ss-1920-800x450.jpg");
+     background-position: center;
+     background-size: cover;
+     position: relative;
+     box-sizing: border-box;
+     padding-right: 5%;
+     padding-left: 3%;
+ }
+
+ .content {
+     width: 100%;
+     position: relative;
+     top: 45%;
+     transform: translateY(-50%);
+     text-align: center;
+     color: #fff;
+ }
+ .text {
+     font-size: 1.5rem;
+     font-weight: 700;
+     text-transform: uppercase;
+     width: 100%;
+     height: 100%;
+     display: flex;
+     text-align: center;
+     overflow: hidden;
+     justify-content: center;
+     align-items: center;
+ }
+ p {
+     font-size: 1rem;
+     font-weight: 500;
+     line-height: 1.5rem;
+     letter-spacing: .1em;
+     margin-top: 40px;
+ }
+ .btn {
+     background: linear-gradient(to right, transparent 50%, #ffbd59 50%);
+     background-size: 200% auto;
+     background-position: left;
+     margin-top: 70px;
+     margin-left: 50px;
+     padding: 15px 45px;
+     text-align: center;
+     border: 2px solid #ffbd59;
+     outline: none;
+     color: #fff;
+     font-weight: 700;
+     text-transform: uppercase;
+     font-size: 24px;
+     border-radius: 30px;
+     cursor: pointer;
+     box-shadow: 3px 8px 22px rgba(22,21,21,.15);
+     transition: background-position .5s;
+ }
+ .btn:hover {
+     background-position: right;
+     color: #1b1b1b;
+ }
+ .slider {
+     color: #ffbd59;
+     margin-left: 14px;
+     box-sizing: border-box;
+     animation: slider 6s linear infinite;
+ }
+ @keyframes slider {
+     0% {
+         margin-top: -320px;
+     }
+     5% {
+        margin-top: -160px;
+    }
+    30% {
+        margin-top: -160px;
+    }
+    35% {
+        margin-top: 0px;
+    }
+    65% {
+        margin-top: 0px;
+    }
+    70% {
+        margin-top: 160px;
+    }
+    100% {
+        margin-top: 160px;
+    }
+}
+
+
+
+@media screen and (max-width: 420px){
+
+ .text{
+    width: 100%;
+    
+ }
+}
+
+

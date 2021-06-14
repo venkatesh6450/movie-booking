@@ -1,0 +1,2154 @@
+{
+  "movies": [
+    {
+      "id": 0,
+      "movieName": "html",
+      "seats_reserved": 20,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "Rating": "3.5",
+      "image": "http://localhost:3000/7de5be9d-a60f-4152-8c19-de31d3963cc3",
+      "seats": [
+        {
+          "Key": "a",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": true
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": true
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": true
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": true
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": true
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": true
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "b",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "c",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "d",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "movieName": "css3",
+      "seats_reserved": 45,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "Rating": "3",
+      "image": "http://localhost:3000/7de5be9d-a60f-4152-8c19-de31d3963cc3",
+      "seats": [
+        {
+          "Key": "a",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "b",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value ": false
+            },
+            {
+              "no": 2,
+              "value ": false
+            },
+            {
+              "no": 3,
+              "value ": false
+            },
+            {
+              "no": 4,
+              "value ": false
+            },
+            {
+              "no": 5,
+              "value ": false
+            },
+            {
+              "no": 6,
+              "value ": false
+            },
+            {
+              "no": 7,
+              "value ": false
+            },
+            {
+              "no": 8,
+              "value ": false
+            },
+            {
+              "no": 9,
+              "value ": false
+            },
+            {
+              "no": 10,
+              "value ": false
+            },
+            {
+              "no": 11,
+              "value ": false
+            },
+            {
+              "no": 12,
+              "value ": false
+            },
+            {
+              "no": 13,
+              "value ": false
+            },
+            {
+              "no": 14,
+              "value ": false
+            },
+            {
+              "no": 15,
+              "value ": false
+            },
+            {
+              "no": 16,
+              "value ": false
+            },
+            {
+              "no": 17,
+              "value ": false
+            },
+            {
+              "no": 18,
+              "value ": false
+            },
+            {
+              "no": 19,
+              "value ": false
+            },
+            {
+              "no": 20,
+              "value ": false
+            },
+            {
+              "no": 21,
+              "value ": false
+            },
+            {
+              "no": 22,
+              "value ": false
+            },
+            {
+              "no": 23,
+              "value ": false
+            },
+            {
+              "no": 24,
+              "value ": false
+            }
+          ]
+        },
+        {
+          "Key": "c",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "d",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "movieName": "Java",
+      "seats_reserved": 45,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ",
+      "Rating": "2.5",
+      "image": "http://localhost:3000/7de5be9d-a60f-4152-8c19-de31d3963cc3",
+      "seats": [
+        {
+          "Key": "a",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "b",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "c",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value ": false
+            },
+            {
+              "no": 2,
+              "value ": false
+            },
+            {
+              "no": 3,
+              "value ": false
+            },
+            {
+              "no": 4,
+              "value ": false
+            },
+            {
+              "no": 5,
+              "value ": false
+            },
+            {
+              "no": 6,
+              "value ": false
+            },
+            {
+              "no": 7,
+              "value ": false
+            },
+            {
+              "no": 8,
+              "value ": false
+            },
+            {
+              "no": 9,
+              "value ": false
+            },
+            {
+              "no": 10,
+              "value ": false
+            },
+            {
+              "no": 11,
+              "value ": false
+            },
+            {
+              "no": 12,
+              "value ": false
+            },
+            {
+              "no": 13,
+              "value ": false
+            },
+            {
+              "no": 14,
+              "value ": false
+            },
+            {
+              "no": 15,
+              "value ": false
+            },
+            {
+              "no": 16,
+              "value ": false
+            },
+            {
+              "no": 17,
+              "value ": false
+            },
+            {
+              "no": 18,
+              "value ": false
+            },
+            {
+              "no": 19,
+              "value ": false
+            },
+            {
+              "no": 20,
+              "value ": false
+            },
+            {
+              "no": 21,
+              "value ": false
+            },
+            {
+              "no": 22,
+              "value ": false
+            },
+            {
+              "no": 23,
+              "value ": false
+            },
+            {
+              "no": 24,
+              "value ": false
+            }
+          ]
+        },
+        {
+          "Key": "d",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "movieName": "Java Script",
+      "seats_reserved": 45,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "Rating": "1.5",
+      "image": "http://localhost:3000/7de5be9d-a60f-4152-8c19-de31d3963cc3",
+      "seats": [
+        {
+          "Key": "a",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "b",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "c",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "d",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "movieName": "movie1",
+      "seats_reserved": 0,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "Rating": "5",
+      "image": "http://localhost:3000/7de5be9d-a60f-4152-8c19-de31d3963cc3",
+      "id": 4,
+      "seats": [
+        {
+          "Key": "a",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "b",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "c",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        },
+        {
+          "Key": "d",
+          "seat": [
+            {
+              "no": 0,
+              "value": true
+            },
+            {
+              "no": 1,
+              "value": false
+            },
+            {
+              "no": 2,
+              "value": false
+            },
+            {
+              "no": 3,
+              "value": false
+            },
+            {
+              "no": 4,
+              "value": false
+            },
+            {
+              "no": 5,
+              "value": false
+            },
+            {
+              "no": 6,
+              "value": false
+            },
+            {
+              "no": 7,
+              "value": false
+            },
+            {
+              "no": 8,
+              "value": false
+            },
+            {
+              "no": 9,
+              "value": false
+            },
+            {
+              "no": 10,
+              "value": false
+            },
+            {
+              "no": 11,
+              "value": false
+            },
+            {
+              "no": 12,
+              "value": false
+            },
+            {
+              "no": 13,
+              "value": false
+            },
+            {
+              "no": 14,
+              "value": false
+            },
+            {
+              "no": 15,
+              "value": false
+            },
+            {
+              "no": 16,
+              "value": false
+            },
+            {
+              "no": 17,
+              "value": false
+            },
+            {
+              "no": 18,
+              "value": false
+            },
+            {
+              "no": 19,
+              "value": false
+            },
+            {
+              "no": 20,
+              "value": false
+            },
+            {
+              "no": 21,
+              "value": false
+            },
+            {
+              "no": 22,
+              "value": false
+            },
+            {
+              "no": 23,
+              "value": false
+            },
+            {
+              "no": 24,
+              "value": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
