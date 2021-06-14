@@ -71,10 +71,14 @@ function Food(){
 			return{
 				price : el.items *  el.price,
 				items : el.items,
+				originalPrice : el.price,
 				itemName : el.itemName,
 				items_tag : newArray.concat({ [el.itemName] : el.items })
 			}
 		}) 
+
+
+
 
 		let price = 0
 
@@ -156,22 +160,19 @@ function Food(){
 					<div className="cart-total">
 
 						<p> <span >Total Price</span> <span>₹ {price} </span> </p>
-						<p> 
+						
 
 						{ priceData.map((el, index)=>
 
 							el.price > 0 ?
 							<div key={index}>
-							<span > {el.itemName}  : {el.price * el.items} </span>
+							<span > {el.itemName}  : {el.originalPrice * el.items} </span>
 							</div> 
 
 							: 
 
 							null 
 						)}
-
-
-						</p>
 					
 						<a href="#">Proceed to Checkout</a>
 					</div>
