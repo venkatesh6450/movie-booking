@@ -31,6 +31,11 @@ export const routes = {
     component: lazy(() => import('../Components/LandingPage')),
     exact: true,
   },
+   food: {
+    path: "/food",
+    component: lazy(() => import('../Components/Food')),
+    exact: true,
+  },
 }
 
 export const renderRoutes = Object.entries(routes)
